@@ -6,6 +6,7 @@
 </p>
 a 2nd year foreign linguistics student w/ a big interest in programming
 <br>i do a bit of web dev
+
 <br><br>get in touch with me at:
 - discord: randominist
 - [my strawpage](ayubloom.straw.page)
