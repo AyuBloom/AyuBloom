@@ -1,12 +1,16 @@
 ### 🥮 i like cakes with no frostings 🥮
+<p>
+  <a href="https://greasyfork.org/en/scripts/467381-sun-raise-zombs-io">Sun:Raise</a>
+  ·
+  <a href="https://greasyfork.org/en/scripts/435632-xeraphinite-zombs-io">Xeraphinite</a>
+</p>
 a 2nd year foreign linguistics student w/ a big interest in programming
 <br>i do a bit of web dev
 <br><br>get in touch with me at:
 - discord: randominist
 - [my strawpage](ayubloom.straw.page)
 
-
-<br><br>i got nothing else to write so here are my game achievements lol
+<br>i got nothing else to write so here are my game achievements lol
 - Arcaea: 11.90 ptt
 - Phigros: 14.54 RKS
 - Genshin Impact: AR 56
