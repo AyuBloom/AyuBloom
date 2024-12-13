@@ -11,7 +11,7 @@ a 2nd year foreign linguistics student w/ a big interest in programming
 
 <br><br>get in touch with me at:
 - discord: randominist
-- [my strawpage](ayubloom.straw.page)
+- [my strawpage](https://ayubloom.straw.page)
 
 <br>i got nothing else to write so here are my game achievements lol
 - Arcaea: 11.90 ptt
