@@ -8,8 +8,10 @@
 </p>
 a 2nd year foreign linguistics student w/ a big interest in programming
 <br>i do a bit of web dev
+<br><br>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AyuBloom&layout=compact&show_icons=true&theme=dark" />
 
-<br><br>get in touch with me at:
+<br>get in touch with me at:
 - discord: randominist
 - [my strawpage](https://ayubloom.straw.page)
 
