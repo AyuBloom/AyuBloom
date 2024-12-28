@@ -22,8 +22,8 @@ a 2nd year foreign linguistics student w/ a big interest in programming
 - [my strawpage](https://ayubloom.straw.page)
 
 <br>i got nothing else to write so here are my game achievements lol
-- Arcaea: 11.90 ptt
+- Arcaea: 11.92 ptt
 - Phigros: 14.54 RKS
 - Genshin Impact: AR 56
-- Zenless Zone Zero: Inter-knot Level 52
+- Zenless Zone Zero: Inter-knot Level 53
 - osu!mania: #185.574
