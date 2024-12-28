@@ -9,6 +9,12 @@
 a 2nd year foreign linguistics student w/ a big interest in programming
 <br>i do a bit of web dev
 <br><br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+<br><br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuBloom&layout=compact&show_icons=true&theme=dark" />
 
 <br>get in touch with me at:
@@ -21,24 +27,3 @@ a 2nd year foreign linguistics student w/ a big interest in programming
 - Genshin Impact: AR 56
 - Zenless Zone Zero: Inter-knot Level 52
 - osu!mania: #185.574
-
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuBloom&layout=compact&langs_count=4&theme=dark"/>
-</div>
--->
-
-<!--
-**AyuBloom/AyuBloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
