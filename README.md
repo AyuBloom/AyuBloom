@@ -19,9 +19,7 @@ a 2nd year foreign linguistics student w/ a big interest in programming
 <br><br>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuBloom&layout=compact&show_icons=true&theme=dark" />
 
-<br>get in touch with me at:
-- discord: randominist
-- [my strawpage](https://ayubloom.straw.page)
+<br>i have a github.io page! visit me <a href="https://ayubloom.github.io/">here</a>!
 
 <br>i got nothing else to write so here are my game achievements lol
 - Arcaea: 11.92 ptt
