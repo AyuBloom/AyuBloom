@@ -17,11 +17,21 @@ previously a Foreign Linguistics student, i'm now majoring in Information Techno
 - JavaScript: 5 years of experience, decent proficiency in scripting; utilized many tools throughout the years, including runtimes (Node.js, Bun), bundlers (webpack, Vite),  etc...
 - TypeScript: has been a recent experiment**; proficient enough to write code between JS and TS interchangeably.
 
+#### less proficient languages
+
+most of the listed languages here are ones that i am yet to feel comfortable with fully understanding and writing code in, but have used in some projects nonetheless.
+- Python
+- Rust
+- Swift
+- C
+
 ### (JavaScript) frameworks
 
 - SvelteKit: my favorite tool for building websites, at least 3 years' experience of writing Svelte under the belt.
 - Tailwind: i've been using this framework hand-in-hand with Svelte, with good understanding of the new v4 syntax system.
 - Tauri: almost 2 years of experience.
+
+
 
 ## footnotes
 
