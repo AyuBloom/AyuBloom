@@ -20,6 +20,7 @@ previously a Foreign Linguistics student, i'm now majoring in Information Techno
 ### (JavaScript) frameworks
 
 - SvelteKit: my favorite tool for building websites, at least 3 years' experience of writing Svelte under the belt.
+- Tailwind: i've been using this framework hand-in-hand with Svelte, with good understanding of the new v4 syntax system.
 - Tauri: almost 2 years of experience.
 
 ## footnotes
