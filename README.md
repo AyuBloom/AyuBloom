@@ -1,30 +1,29 @@
-### 🥮 i like cakes with no frostings 🥮
-<p>
-  <a href="https://greasyfork.org/en/scripts/520326-alterale-zombs-io-greasyfork-version">AlterAle</a>
-  ·
-  <a href="https://greasyfork.org/en/scripts/467381-sun-raise-zombs-io">Sun:Raise</a>
-  ·
-  <a href="https://greasyfork.org/en/scripts/435632-xeraphinite-zombs-io">Xeraphinite</a>
-</p>
-a 2nd year foreign linguistics student w/ a big interest in programming
-<br>i do a bit of web dev
-<br><br>
+# hello!
+previously a Foreign Linguistics student, i'm now majoring in Information Technology @ Vietnam National University Ho Chi Minh City - University of Science! you can call me Ayu or rdm.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?style=flat&logo=svelte)&nbsp;
-![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=flat&logo=tauri)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<br><br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuBloom&layout=compact&show_icons=true&theme=dark" />
+## my interests
+- i do lots of web development!
+- i love trying out the latest tech.
+- i like strawberry shortcakes!
 
-<br>i have a github.io page! visit me <a href="https://ayubloom.github.io/">here</a>!
+## my notable works
+- i dabbled in making some game mods* for a webgame called [zombs.io](https://zombs.io/) for a while, ever since i was in 8th grade.
+- i am one of the (newly hired) developers of [zombia.io](https://zombia.io); i'm mainly responsible for the UI / UX of the game, plus the frontend & a few backend routes of the website.
 
-<br>i got nothing else to write so here are my game achievements lol
-- Arcaea: 11.92 ptt
-- Phigros: 14.54 RKS
-- osu!mania: #185.574
-- Genshin Impact: AR 56
-- Zenless Zone Zero: Inter-knot Level 53
-- zombs.io/zombia.io: good enough i guess
+## preferred programming languages & frameworks
+
+### programming languages
+
+- JavaScript: 5 years of experience, decent proficiency in scripting; utilized many tools throughout the years, including runtimes (Node.js, Bun), bundlers (webpack, Vite),  etc...
+- TypeScript: has been a recent experiment**; proficient enough to write code between JS and TS interchangeably.
+
+### (JavaScript) frameworks
+
+- SvelteKit: my favorite tool for building websites, at least 3 years' experience of writing Svelte under the belt.
+- Tauri: almost 2 years of experience.
+
+## footnotes
+
+[*] some of those mods are public for view & usage: [AlterAle](https://greasyfork.org/en/scripts/520326-alterale-zombs-io-greasyfork-version) · [Sun:Raise](https://greasyfork.org/en/scripts/467381-sun-raise-zombs-io) · [Xeraphinite](https://greasyfork.org/en/scripts/435632-xeraphinite-zombs-io).
+
+[**] some of my projects that have mainly used TypeScript: [Dandelion](https://github.com/AyuBloom/Dandelion) and the [zombia.io](https://zombia.io) website.
