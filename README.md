@@ -31,10 +31,17 @@ most of the listed languages here are ones that i am yet to feel comfortable wit
 - Tailwind: i've been using this framework hand-in-hand with Svelte, with good understanding of the new v4 syntax system.
 - Tauri: almost 2 years of experience.
 
-
-
 ## footnotes
 
 [*] some of those mods are public for view & usage: [AlterAle](https://greasyfork.org/en/scripts/520326-alterale-zombs-io-greasyfork-version) · [Sun:Raise](https://greasyfork.org/en/scripts/467381-sun-raise-zombs-io) · [Xeraphinite](https://greasyfork.org/en/scripts/435632-xeraphinite-zombs-io).
 
 [**] some of my projects that have mainly used TypeScript: [Dandelion](https://github.com/AyuBloom/Dandelion) and the [zombia.io](https://zombia.io) website.
+
+<div align="center">
+  <a href="https://commit-history.com/AyuBloom">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/AyuBloom?theme=dark" />
+      <img alt="AyuBloom's commit history" src="https://commit-history.com/embed/AyuBloom" />
+    </picture>
+  </a>
+</div>
