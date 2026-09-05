@@ -1,6 +1,6 @@
 # hello!
 
-to know me more, check out my [github.io page](https://ayubloom.github.io/)!
+to know me more, shoot me a message on discord!
 
 <div align="center">
   <a href="https://commit-history.com/AyuBloom">
